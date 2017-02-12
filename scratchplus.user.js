@@ -6,8 +6,8 @@
 // @match        https://scratch.mit.edu/users/*
 // @match        http://scratch.mit.edu/users/*
 // @grant        none
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/7Snails/get/raw/master/scratchplus.user.js
+// @updateURL    https://github.com/7Snails/get/raw/master/scratchplus.user.js
 // ==/UserScript==
 
 var currentURL = window.location.href;
